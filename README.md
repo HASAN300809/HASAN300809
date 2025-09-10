@@ -37,6 +37,7 @@ Let’s collaborate and build something impactful! 🌟
 
 ---
 
+## 🎮 Play Game With Me!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HASAN300809/HASAN300809/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HASAN300809/HASAN300809/output/pacman-contribution-graph.svg">
